@@ -1,6 +1,5 @@
 - Earthquake bugfixes
 - Stuck minions on spawn bug fix
-- Heal statue now adds only 50% of missing stat
 - Added PC Flatscreen controller so you can play with your PC friends who has no VR headsets
 - Main and in game menu settings now are the same
 - Added spawn teleportation mechanic
