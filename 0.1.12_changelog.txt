@@ -1,0 +1,20 @@
+- Earthquake bugfixes
+- Stuck minions on spawn bug fix
+- Heal statue now adds only 50% of missing stat
+- Added PC Flatscreen controller so you can play with your PC friends who has no VR headsets
+- Main and in game menu settings now are the same
+- Added spawn teleportation mechanic
+- Added healing mechanic on the base
+- VR Weapons are not jittery anymore while player is moving
+- Added ping display
+- Added ping and fps toggles to settings
+- Now when champion dies everyone gets notification (whether champion dies from tower or other champion)
+- If you hitted champion and he is dead under next 15 seconds it will be counted as if you killed him
+- Player never respawns for other clients bug fix
+- If player jumped too high or got under the map he is returned back to a map now
+- Added skills icons and more user friendly skills cooldown UI (both VR and flat screen PC)
+- Now walking animation is in sync with champion movement speed (e.g warrior hyper boost skill didn’t affect sounds and animations)
+- Reduced minions damage
+- Added dodge rolling mechanics which uses stamina (same as jumping)
+- Added stamina lack indicator
+- Added changelogs and version checks so players can’t join the lobbies if they have outdated version of the game
