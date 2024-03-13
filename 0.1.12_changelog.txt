@@ -17,3 +17,4 @@
 - Added dodge rolling mechanics which uses stamina (same as jumping)
 - Added stamina lack indicator
 - Added changelogs and version checks so players can’t join the lobbies if they have outdated version of the game
+- Heal statue now recovers only half of the max health. Stamina and mana recovered fully still
