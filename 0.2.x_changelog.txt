@@ -20,3 +20,4 @@
 - Heal statue now recovers only half of the max health. Stamina and mana recovered fully still
 - Added Earthquake animation and lags compensations (so no cases when you're outside of stun but you are stunned anymore)
 - Added lags compensations for tower spells, minion mages spells and air slash skills
+- Some graphic small adjustments
