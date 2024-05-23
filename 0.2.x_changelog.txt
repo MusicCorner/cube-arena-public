@@ -1,23 +1,19 @@
-- Earthquake bugfixes
-- Stuck minions on spawn bug fix
-- Added PC Flatscreen controller so you can play with your PC friends who has no VR headsets
-- Main and in game menu settings now are the same
-- Added spawn teleportation mechanic
-- Added healing mechanic on the base
-- VR Weapons are not jittery anymore while player is moving
-- Added ping display
-- Added ping and fps toggles to settings
-- Now when champion dies everyone gets notification (whether champion dies from tower or other champion)
-- If you hitted champion and he is dead under next 15 seconds it will be counted as if you killed him
-- Player never respawns for other clients bug fix
-- If player jumped too high or got under the map he is returned back to a map now
-- Added skills icons and more user friendly skills cooldown UI (both VR and flat screen PC)
-- Now walking animation is in sync with champion movement speed (e.g warrior hyper boost skill didn’t affect sounds and animations)
-- Reduced minions damage
-- Added dodge rolling mechanics which uses stamina (same as jumping)
-- Added stamina lack indicator
-- Added changelogs and version checks so players can’t join the lobbies if they have outdated version of the game
-- Heal statue now recovers only half of the max health. Stamina and mana recovered fully still
-- Added Earthquake animation and lags compensations (so no cases when you're outside of stun but you are stunned anymore)
-- Added lags compensations for tower spells, minion mages spells and air slash skills
-- Some graphic small adjustments
+Tons of bug fixes
+Added PC Flatscreen controller so you can play with your PC friends who has no VR headsets
+Main and in game menu settings now are the same
+Added spawn teleportation mechanic
+Added healing mechanic on the spawn
+Added ping display
+Added ping and fps toggles to settings
+Now when champion dies everyone gets notification (whether champion dies from tower or other champion)
+If you hit champion and he dies during next 15 seconds it will be counted as if you killed him
+Added skills icons and more user friendly skills cooldown UI (both VR and flat screen PC)
+Now walking animation is in sync with champion movement speed (e.g warrior hyper boost skill didn’t affect sounds and animations)
+Reduced minions damage
+Added dodge rolling mechanics which uses stamina (same as jumping)
+Added stamina lack indicator
+Added changelogs and version checks so players can’t join the lobbies if they have outdated version of the game
+Reconnect to a game
+Tutorial Level
+Champion BOT AI with 3 difficulties: Easy, Medium, Hard
+Now there are 20 levels instead of 15
